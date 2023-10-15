@@ -1,6 +1,7 @@
 # Trabalho-Xubank-
 
 * Trabalho de Programação Modular
+![Diagrama Classes](DiagramaXubank.png)
 
 # Alunos Integrantes do Grupo
 
@@ -12,4 +13,4 @@
 
 # Professor Responsável
 
-*Johnathan Alves de Oliveira
+* Johnathan Alves de Oliveira
