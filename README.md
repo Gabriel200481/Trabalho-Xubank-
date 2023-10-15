@@ -1,9 +1,8 @@
 # Trabalho-Xubank-
 
 * Trabalho de Programação Modular
-![Diagrama Classes](DiagramaXubank.png)
 
-# Alunos Integrantes do Grupo
+## Alunos Integrantes do Grupo
 
 * Arthur Felipe Lopes Ferreira
 * Bryan Rosenberg de Abreu
@@ -11,6 +10,10 @@
 * Gabriel Afonso Infante Vieira
 * Vitor de Figueiredo Pereira
 
-# Professor Responsável
+## Professor Responsável
 
 * Johnathan Alves de Oliveira
+
+### Diagrama de Classe
+
+![Diagrama Classes](DiagramaXubank.png)
