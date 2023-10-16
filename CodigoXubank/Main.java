@@ -4,6 +4,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner ler = new Scanner(System.in);
         int opcao;
+
         Cliente cliente1= new Cliente ("Vitor",123, "senha123");
         Conta conta1= new Conta (cliente1);
         cliente1.getContas().add(conta1);
